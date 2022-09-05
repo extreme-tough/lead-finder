@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Craigslist Emailer", "Craigslist Emailer.csproj", "{B6D0F1FC-893A-46D4-8370-017B8EFF5409}"
+EndProject
+Project("{E729F059-12D4-455F-A2A4-FDA8DD25E08A}") = "OLFSetup", "..\OLFSetup\OLFSetup.isproj", "{7A39E057-E001-4E18-A058-8B411E13A09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release 1|Any CPU = Release 1|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6D0F1FC-893A-46D4-8370-017B8EFF5409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D0F1FC-893A-46D4-8370-017B8EFF5409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D0F1FC-893A-46D4-8370-017B8EFF5409}.Release 1|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D0F1FC-893A-46D4-8370-017B8EFF5409}.Release 1|Any CPU.Build.0 = Release|Any CPU
+		{B6D0F1FC-893A-46D4-8370-017B8EFF5409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D0F1FC-893A-46D4-8370-017B8EFF5409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A39E057-E001-4E18-A058-8B411E13A09E}.Debug|Any CPU.ActiveCfg = Release 1
+		{7A39E057-E001-4E18-A058-8B411E13A09E}.Debug|Any CPU.Build.0 = Release 1
+		{7A39E057-E001-4E18-A058-8B411E13A09E}.Release 1|Any CPU.ActiveCfg = Release 1
+		{7A39E057-E001-4E18-A058-8B411E13A09E}.Release 1|Any CPU.Build.0 = Release 1
+		{7A39E057-E001-4E18-A058-8B411E13A09E}.Release|Any CPU.ActiveCfg = Release 1
+		{7A39E057-E001-4E18-A058-8B411E13A09E}.Release|Any CPU.Build.0 = Release 1
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

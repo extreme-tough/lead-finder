@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="Online Lead Finder.exe" version="1.0.0.0" publicKeyToken="b6230af1bc147bce" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="CAMERA.ICO" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Online Lead Finder" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Online Lead Finder.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ADODB.dll" size="110592">
+      <assemblyIdentity name="ADODB" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>o/V93eadQXHNnFDbbFfni9zgjeg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.MSXML2.dll" size="86016">
+      <assemblyIdentity name="Interop.MSXML2" version="2.6.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>/RiGnFqVtHBvtp31EhxUoHFi1Lo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.Scripting.dll" size="32768">
+      <assemblyIdentity name="Interop.Scripting" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>tHlJWX7q2oo4sIP76L8krzQo3GI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Online Lead Finder.exe" size="77824">
+      <assemblyIdentity name="Online Lead Finder" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>fVKnFitDkVT5Z7Ca1ySkXdFlLZM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CAMERA.ICO" size="766">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>S3yuMtyUk1rSOJF+wGEXe/+Lcvk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Online Lead Finder.exe.config" size="437">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TatNUVh5tFq6/w+XnAii2kb6m4w=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=NANOSOFT\Nishant" issuerKeyHash="9aafb751e0beb2d5dc4221460a2e9dd47f32b5e6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>M5+U2yUNk+vpxJ3VV0Q8j5FQofw=</DigestValue></Reference></SignedInfo><SignatureValue>wolPbeOcaBpAUwHkB5Ta7PbrkVC0QayILoX1RRjAxB6WPaeIpY9+J2UBo8xONcYCkf7bk/h/UiYMByyvinHknlENzW30BNrFuQ2Phy0adrtD4FyaMocNaeFU4dMsEHBHng1FlyLBqU5/E7BT/GI3/42Vt1x0DNEGW32phJ0hv1U=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xlsB6VbyNIgCtcRooZCHRkzg5smDTdP7nMfmGdlPcCqFcw3gIcaRs0/Dw5mnRC2YqxmhiXT9DD/4K7kFG/DYxfxafihVvjug23VpbgImAsF5PaG4BbNz8Kv1dMJAAt0TzXR5ChloXCcxBUSe3Vl9AKeEP/ABpXwa7FTkkojtbaU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="fca150918f3c4457d59dc4e9eb930d25db949f33" Description="" Url=""><as:assemblyIdentity name="Online Lead Finder.exe" version="1.0.0.0" publicKeyToken="b6230af1bc147bce" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=NANOSOFT\Nishant</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Kplp6yxpTgL0s+nB47wuMT4VilE=</DigestValue></Reference></SignedInfo><SignatureValue>NtVZnF11yBVPcf2JChil8QmI1TehRUfQkYwpyfKX4RXj387Be4vuS4FjZX0ic+5DhdNu/CJheYdvxU2PBVxm1vEvrr5dBVlXRubHmfgNYFbiH734Hr9mPKqKW0D1/tQwgcJguE5tW3a4Dz6khP3vGsMjuVX9ficNgxGuUd3Dyqs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xlsB6VbyNIgCtcRooZCHRkzg5smDTdP7nMfmGdlPcCqFcw3gIcaRs0/Dw5mnRC2YqxmhiXT9DD/4K7kFG/DYxfxafihVvjug23VpbgImAsF5PaG4BbNz8Kv1dMJAAt0TzXR5ChloXCcxBUSe3Vl9AKeEP/ABpXwa7FTkkojtbaU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCAT6gAwIBAgIQa+DUIeQt0pxEah1Hb42T7DAJBgUrDgMCHQUAMCsxKTAnBgNVBAMeIABOAEEATgBPAFMATwBGAFQAXABOAGkAcwBoAGEAbgB0MB4XDTA4MTIxMDE5MTYwOVoXDTA5MTIxMTAxMTYwOVowKzEpMCcGA1UEAx4gAE4AQQBOAE8AUwBPAEYAVABcAE4AaQBzAGgAYQBuAHQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMZbAelW8jSIArXEaKGQh0ZM4ObJg03T+5zH5hnZT3AqhXMN4CHGkbNPw8OZp0QtmKsZoYl0/Qw/+Cu5BRvw2MX8Wn4oVb47oNt1aW4CJgLBeT2huAWzc/Cr9XTCQALdE810eQoZaFwnMQVEnt1ZfQCnhD/wAaV8GuxU5JKI7W2lAgMBAAEwCQYFKw4DAh0FAAOBgQCvIbk1g96X7RfnhBtEg7nH9oJFHIpNkYMz9C+gZ27FKNSEsyo2wEZUR5OZPdBqwJFDPi8h79JdSPQO8NvOjTtGyFQzvVP44u8dLmCt2IwAHkdIhjyUF3hTbjHG2HhHWXIjDS1RTGWAdS5jjI9vl4xaLLrHFm/WHbEzatu1hsqFTg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

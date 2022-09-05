@@ -1,0 +1,131 @@
+Online REI Lead Finder Software
+
+SOFTWARE LICENSE AGREEMENT
+Updated 10/12/08
+
+PLEASE READ THIS SOFTWARE LICENSE AGREEMENT ("LICENSE") CAREFULLY BEFORE USING THE SOFTWARE. BY USING THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT USE THE SOFTWARE. IF YOU DO NOT AGREE TO THE TERMS OF THE LICENSE, YOU MAY RETURN THE SOFTWARE FOR A REFUND.
+
+USAGE AGREEMENT
+
+WHEREAS, The Wierman Group - Online REI Lead Finder Software (TWG - OLF) develops, maintains, and licenses access to, a web-based sales and marketing automation software solution for businesses, marketers, and entrepreneurs; and real estate investors.
+
+WHEREAS, Customer wishes to use Online REI Lead Finder SOFTWARE and obtain such related services, and Online REI Lead Finder desires to provide such services to Customer; and
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual covenants and agreements contained herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+ARTICLE I.
+
+DEFINITIONS
+1.1 Definitions. For purposes of this Agreement, the definitions set forth below shall be applicable:
+
+“Authorized User” means an individual who is an employee or contractor of Customer who is acting within the scope of a formal employment or agency relationship and who agrees to be bound by the terms of this Agreement.
+
+“Front End Code” means the user interface display and usability platform. This includes but is not limited to the layout, color scheme, HTML pages and source code etc.
+
+“Back End Code” means the Online REI Lead Finder SOFTWARE application specific source code. This includes but is not limited to the database schema, field definitions, table relationships, marketing automation, work flow management, application methodology and interface coding etc.
+
+ARTICLE II.
+OWNERSHIP AND USE
+
+2.1 Grant of License. Subject to the terms and conditions of this Agreement, Online REI Lead Finder hereby grants to Customer and Customer hereby accepts a nonexclusive, nontransferable license to establish Online Access to the Online REI Lead Finder SOFTWARE to perform contact management, document preparation, formula analysis, document creation and other related business functions as the Software is designed to perform.
+
+2.2 Title. Online REI Lead Finder shall retain all right, title, and interest (including all copyrights, patents, service marks, trademarks and other intellectual property rights) in and to Online REI Lead Finder SOFTWARE, including any and all updates, enhancements, customizations, revisions, modifications, future releases and any other changes thereto, and all related information, material and documentation, etc. Except for the license granted pursuant to this Agreement, Customer shall not acquire any interest in the Online REI Lead Finder SOFTWARE Software or any other services or materials, or any copies or portions thereof, provided by Online REI Lead Finder pursuant to this Agreement.
+
+2.3 Customer Ownership of prospect, customer and employee Data. Any Company-specific Data provided to Online REI Lead Finder hereunder, either in hard copy or electronic format is and shall remain Customer’s property.
+
+2.4 Online REI Lead Finder intellectual property ownership and restrictions to product use.  Online REI Lead Finder shall retain all rights to proprietary application development, business and technical methodologies, implementation, business processes and all other aspects of TWG - OLF business, application(s) and services. Under no circumstances, will the Customer be permitted to use any Front or Back End Code to their advantage (or) the advantage of their partner company’s (or) potential partner company’s outside of the intended design and implementation for which the original service subscription agreement was executed. The technology and business methodologies are proprietary and the sole property of OnlineREI  Lead Finder. Any technology or business replication of any aspect of the application or services provided used for the gain of the Customer or above mentioned business partners or for the use of any level of a competitive nature regarding these proprietary elements is strictly prohibited.
+ARTICLE III.
+FEES
+
+3.1 Fees. In consideration of the license granted pursuant to Section 2.1, and for the Services, Customer shall pay The Wierman Group the fees as specified on the Customer’s original Invoice (the “Fees”). The Wierman Group shall invoice Customer for the Licensing, Setup, and Implementation Fees immediately upon execution of this Agreement. These fees shall be paid at the execution of this agreement. Thereafter, The Wierman Group shall invoice Customer on a pre-paid monthly basis for monthly membership charges. All charges for Fees shall be due and payable to The Wierman Group within ten-days (10) of the date of each invoice. Any charges not paid when due are subject to interest at a rate equal to the lesser of: (i) one and one-half percent (1.5%) per month; or (ii) the maximum interest rate allowed by applicable law.
+ARTICLE IV.
+CONFIDENTIALITY
+
+4.1 Confidentiality. Each party agrees that the company associated Data (referred to herein as the “Customer Confidential Information”) and any and all materials, documentation and information pertaining to the The Wierman Group SOFTWARE and the Services (referred to herein collectively as the “The Wierman Group Confidential Information”) is the confidential property of Customer and The Wierman Group, respectively (Customer Confidential Information and The Wierman Group Confidential Information referred to hereinafter collectively as the “Confidential Information”). The party receiving the Confidential Information, including such party’s employees, officers, directors and agents, (collectively, the “Receiving Party”) shall hold in confidence all Confidential Information and shall not disclose or distribute Confidential Information, or any portion thereof, in any form or format to any person except on a strict “need to know” basis for the purpose of performance of this Agreement, or as required by valid legal process. Customer agrees it shall not copy, alter, decompile, disassemble, reverse engineer, or otherwise modify (except with The Wierman Group’s prior written consent) or directly or indirectly disclose any The Wierman Group Confidential Information. Confidential Information under this Section 4 shall not include information that: (i) is or has become publicly available without restriction through no fault of the Receiving Party; or (ii) has been received without restriction from a third party lawfully in possession of such information.
+
+ARTICLE V.
+
+TERM & TERMINATION
+
+5.1 Term. The term of this Agreement begins on the Effective Date and shall continue for a period of one (1) year unless earlier terminated as provided for in this Section 5.
+5.2 Termination Without Cause. Either party may terminate this Agreement by providing 30 days written notice to the other party.
+5.3 Fees; Return of Data. In the event of termination or expiration of this Agreement, all Fees due and payable to The Wierman Group must be paid in full. At The Wierman Group’s election, upon its receipt of all such Fees, or after notice of intent to terminate has been received by from the Customer by The Wierman Group, The Wierman Group will make all company Data available for a period of 30 days and then remove Customer from the production environment.
+5.4 Standard Marketing. Customer reserves the right to use The Wierman Group name and credentials in an appropriate and acceptable manner for standard marketing promotions. Equally, The Wierman Group reserves the right to use Customer name and credentials in an appropriate and acceptable manner for standard marketing promotions. Acceptable and standard marketing promotions include but are not limited to: Client listings, press releases, surveys, interviews, reputable business publications, television and web site presentation and promotion etc.
+
+ARTICLE VI.
+
+Warranties/LIMITATION OF LIABILITY/INDEMNITY
+
+6.1 DISCLAIMER OF WARRANTIES. THIS AGREEMENT IS AN AGREEMENT FOR SERVICES. NOTWITHSTANDING THE FOREGOING, The Wierman Group SPECIFICALLY DISCLAIMS ALL WARRANTIES WITH REGARD TO THE The Wierman Group SOFTWARE AND SERVICES, EXPRESS OR IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, UNINTERRUPTED SERVICE OR FITNESS FOR A PARTICULAR PURPOSE.
+
+6.2 LIMITATION OF LIABILITY. NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO LOSS OF DATA, LOSS OF BUSINESS OR OTHER LOSS ARISING OUT OF OR RESULTING FROM THIS AGREEMENT EVEN IF THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING SHALL APPLY REGARDLESS OF THE NEGLIGENCE OR OTHER FAULT OF THE PARTY AND REGARDLESS OF WHETHER SUCH LIABILITY SOUNDS IN CONTRACT, NEGLIGENCE, TORT, STRICT LIABILITY OR ANY OTHER THEORY OF LEGAL LIABILITY. Notwithstanding the foregoing, in no event shall The Wierman Group’s cumulative liability under this Agreement exceed the amount actually paid by Customer to The Wierman Group in the immediately preceding six (6) month period.
+
+6.3 Customer Warranty. Customer represents and warrants that it shall, at all times, comply with, and shall remain solely responsible for compliance with, all applicable Federal, State and Local laws and regulations. Customer shall indemnify and hold The Wierman Group harmless from and against any and all damages, costs, losses, claims, causes of action and lawsuits and expenses, including reasonable attorneys’ fees, relating to breach of the aforementioned representation and warranty. Customer represents and warrants that it shall fully comply with the The Wierman Group Acceptable Use Policy, which is incorporated herein by reference.
+
+
+ARTICLE VII.
+GENERAL PROVISIONS
+
+7.1 Assignment of Agreement. Customer shall not assign its Rights or duties under this Agreement without the prior written consent of The Wierman Group. This Agreement shall inure to the benefit of the authorized successors and assigns of the parties.
+
+7.2 Independent Contractor. The Wierman Group is an independent contractor, and this Agreement does not in any way create the relationship of principal and agent, franchisee, joint venture, or partnership between the parties. Neither party shall be liable for any debts or obligations of the other.
+
+7.3 Entire Agreement; Precedence. This Agreement and Exhibits A (which is attached hereto and incorporated herein by reference) contain the entire understanding between the parties and supersede any prior verbal or written agreement between the parties with respect to the subject matter hereof. No amendment or modification of the Agreement shall be valid, unless made in writing and signed by both parties hereto. In the event of any inconsistency or conflict between the terms and conditions of this Agreement and any term or condition of any Exhibit hereto, the terms and conditions of this Agreement shall, in all instances, govern and control.
+
+7.4 Governing Law. This Agreement shall be governed by the laws of the State of South Carolina without giving effect to conflict of laws principles. The venue and jurisdictions shall be Greenville, SC.
+
+7.5 Arbitration. Any and all disputes, controversies and claims arising out of or relating to this Agreement or concerning the respective rights or obligations of the parties hereto shall be settled and determined by arbitration before a panel of one (1) arbitrator pursuant to the Commercial Rules of the American Arbitration Association then in effect. The foregoing notwithstanding, each party shall have no more than three (3) days to present its case to the arbitrator. Judgment upon the award rendered may be entered in any court having jurisdiction or application may be made to such court for a judicial acceptance of the award and an order of enforcement. The parties agree that the arbitrators shall have the power to award damages, injunctive relief and reasonable attorneys’ fees and expenses to any prevailing party in such arbitration. The venue and jurisdictions shall be Greenville, South Carolina.
+
+7.6 Force Majeure. Neither party hereto shall be in default hereunder by reason of its delay or failure to perform any of its obligations hereunder for any event, circumstance, or cause beyond its control such as, but not limited to, acts of God, strikes, lock-outs, general governmental orders or restrictions, war, threat of war, hostilities, revolution, acts of terrorism, riots, epidemics, fire, earthquake, or flood. The performance of this Agreement shall then be suspended for as long as any such event shall prevent the affected party from performing its obligations under this Agreement.
+
+7.7 Invalidity; Waivers. If any provision or portion of this Agreement is held invalid, illegal, void or unenforceable as it appears in this Agreement by reason of any rule of law, administrative or judicial provision or public policy, then such provision shall be construed as being enforceable to the extent such rule of law, administrative or judicial provision or public policy allows. All other provisions of this Agreement shall nevertheless remain in full force and effect. Neither of the parties shall be deemed to have waived any of its rights, powers or remedies hereunder unless the waiving party expresses such a waiver in writing.
+
+7.8 Survival of Terms. Notwithstanding the expiration or earlier termination of this Agreement for any reason, the provisions of Articles 4, 6, 7 and Sections 2.2 and 2.3 of this Agreement shall remain in full force and effect.
+
+7.9 Headings; Counterparts. Paragraph headings used herein are for convenience purposes only and are not intended to be, nor shall they be, used as an aid in interpretation. This Agreement may be signed in counterparts.
+
+
+Acceptable Use Policy
+
+All products services provided by TWG - OLF Software may be used for lawful purposes only. Transmission or storage of any information, data or material in violation of any United States Federal, State or local law is strictly prohibited. Customer agrees to indemnify and hold harmless TWG - OLF from any claims resulting from Customer’s use of the service which damages Customer or any other parties, including attorney’s fees.
+
+TWG will not be liable for any interruptions in service or other monetary loss related to a violation of this Acceptable Use Policy.
+
+   1. Services Provided. Online REI Lead Finder provides Customer with lead generation utomation software that creates emails documents. All services provided must be used by Customer in compliance with this Acceptable Use Policy.
+
+   2. Customer Obligations. Customer agrees to use Online REI Lead FInder services in a manner that is legal, ethical and in conformity with community standards and to respect the privacy of others. More specifically, Customer agrees to abide by TWG - OLF’s requirements governing the use of the various components of Online Lead Finder  services, as described below.
+
+   3. Violations and Penalties. Customers who fail to comply with the terms of this Acceptable Use Policy will be subject to the following penalties, including, but not limited to, termination of service.
+
+Complaints. A $50 administration fee will be immediately charged to Customer’s account for each complaint of spam or unauthorized communication that Online Lead Finder receives involving Customer’s account. This non-refundable administration fee goes toward disputing the complaint with the complainant, the reporting service or “black list” service, and resolving the complaint. One “free” complaint per month will be allowed for each Customer.
+
+         2. Notice of Complaints. Upon receiving a complaint, Online REI Lead Finder  will notify Customer of said complaint and investigate the validity of the complaint. If Customer does not take immediate remedial action to rectify the situation, TWG - OLF may temporarily suspend Customer’s service until Customer has resolved the situation to TWG - OLF’s satisfaction.
+
+         3. Disputing Complaints. After TWG - OLF notifies Customer of a complaint involving his or her account, Customer will have the burden of proof to demonstrate to TWG - OLF that the complaining individual did, in fact, agree to receive communications from Customer. If Customer cannot demonstrate to TWG - OLF that the complaining individual agreed to receive communications from Customer, the complaint will be deemed a “Confirmed Violation” of this Acceptable Use Policy.
+
+         4. Confirmed Violations. A $250 administration fee will apply, and termination of service may apply, in the event TWG - OLF conclusively determines that Customer sent an unsolicited communication to a recipient who did not agree to receive communications from Customer.
+
+         5. Blatant, Widespread and/or Repeated Violations. In accordance with its Zero Tolerance Spam Policy, TWG - OLF will immediately terminate the account of any Customer found to be involved in a spam campaign or other widespread or repeated violation of this Acceptable Use Policy. Furthermore, such Customer will incur a $500 penalty and all information contained in Customer’s account will be forfeit, with no consideration of retrieval. Customer will be held accountable for any monetary damages suffered by TWG - OLF, sustained through contravention of this Policy. Such monetary damages may include, but are not limited to, loss of Web/Domain host, any costs incurred securing further Web/Domain hosting and punitive damages related to lost clients and revenues due to said violation. The determination of what constitutes a “blatant, widespread and/or repeated violation” of this policy will be determined by TWG - OLF in a reasonable manner.
+
+   4. Reservation of Rights. TWG - OLF reserves the right to terminate Customer’s account for any violation of this Acceptable Use Policy.
+      Furthermore, TWG - OLF reserves the following rights.
+
+         1. Questionable Practices. TWG - OLF may terminate Customer’s account if Customer engages in any practice that is, in TWG - OLF’s sole discretion, unlawful, obscene, threatening, abusive, libelous or hateful, or that encourages conduct which would constitute a criminal offense, give rise to civil liability, or otherwise violate any local, state, national or international law.
+
+         2. Change of Terms and Conditions. TWG - OLF reserves the right to change the terms and conditions of this Policy, as needed. Use of TWG - OLF’s services by Customer after said changes constitutes Customer’s acceptance of the new Policy.
+
+*  Privacy Policy
+
+Customer Information
+
+All Online REI Lead Finder customer account information is held confidential. We do not sell our customer list or customer information to any other entities. Customer information such as name, e-mail address, mailing address, phone number, fax number and billing information is collected for the sole purpose of providing services to our customers and notifying them of improvements to our products and services.
+
+From time to time, we will send special offers and promotional notices via mail, e-mail, fax, and/or voice broadcast to our customers and to prospects who have expressed interest and have requested such information. At any time, customers may “opt-out” of such offers and notifications by following the opt-out link on the specific offer received.
+
+Customer Lead Information
+
+All leads generated by our customers and data stored for our customers are held and protected in strict confidence using advanced security measures. Each lead's information is kept only so that the customer’s marketing messages may be sent to that lead. Online REI LeadFinder does not contact customer leads, nor do we sell or share customers’ lead information with any other party.
+
+Affiliate Information
+
+All Online REI Lead Finder affiliate information, including address, phone number, e-mail address, and Social Security or tax id number is confidential. This information is collected for the purposes of: 1) generating commission checks and 2) complying with United States federal tax requirements.

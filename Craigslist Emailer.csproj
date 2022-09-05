@@ -1,0 +1,209 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B6D0F1FC-893A-46D4-8370-017B8EFF5409}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Craigslist_Emailer</RootNamespace>
+    <AssemblyName>Online Lead Finder</AssemblyName>
+    <ApplicationIcon>CAMERA.ICO</ApplicationIcon>
+    <ManifestCertificateThumbprint>C06B39D022B5EE065DA3DCA2028ACEBF61AC4C2A</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Craigslist Emailer_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <StartupObject>Craigslist_Emailer.Program</StartupObject>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmCL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCL.designer.cs">
+      <DependentUpon>frmCL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBackpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBackpage.Designer.cs">
+      <DependentUpon>frmBackpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmailSettings_CL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmailSettings_CL.designer.cs">
+      <DependentUpon>frmEmailSettings_CL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmailSettings_Backpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmailSettings_Backpage.Designer.cs">
+      <DependentUpon>frmEmailSettings_Backpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmailSettings_Kijiji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmailSettings_Kijiji.designer.cs">
+      <DependentUpon>frmEmailSettings_Kijiji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKijiji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKijiji.designer.cs">
+      <DependentUpon>frmKijiji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OnlineLeadFinder_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OnlineLeadFinder_Main.Designer.cs">
+      <DependentUpon>OnlineLeadFinder_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmCL.resx">
+      <DependentUpon>frmCL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBackpage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBackpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmailSettings_CL.resx">
+      <DependentUpon>frmEmailSettings_CL.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmailSettings_Backpage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEmailSettings_Backpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmailSettings_Kijiji.resx">
+      <DependentUpon>frmEmailSettings_Kijiji.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKijiji.resx">
+      <DependentUpon>frmKijiji.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OnlineLeadFinder_Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OnlineLeadFinder_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Craigslist Emailer_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADODB">
+      <Guid>{00000200-0000-0010-8000-00AA006D2EA4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="MSXML2">
+      <Guid>{F5078F18-C551-11D3-89B9-0000F81FE221}</Guid>
+      <VersionMajor>3</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Scripting">
+      <Guid>{420B2830-E718-11CF-893D-00A0C9054228}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CAMERA.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="ADODB">
+      <Visible>False</Visible>
+      <PublishState>Include</PublishState>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

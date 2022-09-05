@@ -1,0 +1,39 @@
+bin\Release\Craigslist Emailer.exe.config
+bin\Release\Craigslist Emailer.exe
+bin\Release\Craigslist Emailer.pdb
+bin\Release\Interop.MSXML2.dll
+bin\Release\Interop.Scripting.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.MSXML2.dll
+obj\Release\Interop.Scripting.dll
+obj\Release\Craigslist Emailer.csproj.ResolveComReference.cache
+obj\Release\Craigslist_Emailer.frmCLEmailer.resources
+obj\Release\Craigslist_Emailer.frmEmailSettings.resources
+obj\Release\Craigslist_Emailer.Properties.Resources.resources
+obj\Release\Craigslist Emailer.csproj.GenerateResource.Cache
+obj\Release\Craigslist Emailer.exe
+obj\Release\Craigslist Emailer.pdb
+bin\Debug\Online Lead Finder.exe.config
+bin\Debug\Online Lead Finder.exe.manifest
+bin\Debug\Online Lead Finder.application
+bin\Debug\Online Lead Finder.exe
+bin\Debug\Online Lead Finder.pdb
+bin\Debug\Interop.MSXML2.dll
+bin\Debug\Interop.Scripting.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.MSXML2.dll
+obj\Debug\Interop.Scripting.dll
+obj\Debug\Craigslist Emailer.csproj.ResolveComReference.cache
+obj\Debug\Craigslist_Emailer.frmCL.resources
+obj\Debug\Craigslist_Emailer.frmBackpage.resources
+obj\Debug\Craigslist_Emailer.frmEmailSettings_CL.resources
+obj\Debug\Craigslist_Emailer.frmEmailSettings_Backpage.resources
+obj\Debug\Craigslist_Emailer.OnlineLeadFinder_Main.resources
+obj\Debug\Craigslist_Emailer.Properties.Resources.resources
+obj\Debug\Craigslist Emailer.csproj.GenerateResource.Cache
+obj\Debug\Online Lead Finder.exe.manifest
+obj\Debug\Online Lead Finder.application
+obj\Debug\Online Lead Finder.exe
+obj\Debug\Online Lead Finder.pdb
+obj\Debug\Craigslist_Emailer.frmKijiji.resources
+obj\Debug\Craigslist_Emailer.frmEmailSettings_Kijiji.resources
